@@ -1,0 +1,5 @@
+Instrukcja:
+1. Domyślny plik wejściowy o nazwie "input.txt" powinien znajdować się w folderze z aplikacją. Jeśli nie zostanie znaleziony wymagane będzie wskazanie jego lokalizacji.
+2. Poszczególne części adresu powinny oddzielone być spacjami.
+3. Domyślnie plik wynikowy zapisany zostanie w folderze z aplikacją pod nazwą "output.txt". Lokalizację oraz nazwę wyniku można zmienić.
+4. Pola wyniku będą rozdzielone średnikami. Każdy rekord zapisywany jest w nowej linii.
